@@ -1,0 +1,12 @@
+{
+  "visualization": {
+    "id": "custom-menu",
+    "label": "Meu Menu Personalizado",
+    "description": "Um menu estilizado em HTML/CSS/JS para filtros no Looker Studio.",
+    "logoUrl": "https://raw.githubusercontent.com/SEU_USUARIO/looker-custom-menu/main/logo.png",
+    "resources": {
+      "js": ["index.js"],
+      "css": ["index.css"]
+    }
+  }
+}
